@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Robert Manos
+ * @author Robert Manos *
  */
 public class Racer extends Thread {
         
